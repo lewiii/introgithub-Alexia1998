@@ -25,7 +25,7 @@
 # ... Écrivez votre code ici ...
 
 
-
+ma_variable = 0
 print(ma_variable)
 
 
